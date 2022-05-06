@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+h1, h2, h3, h4, p{
+    margin: 0;
+}
+.intro-section{
+    background-color: #d1f5c3;
+}
+
+.my-projects{
+    background-color: #f1c6bc;
+}
+.about-section{
+    background: #d0e5f1;
+}
+
+
+
+
+/* @media only screen and (max-width: 550px) {
+
+    
+}
+
+@media only screen and (min-width: 551px) {
+
+}
+
+@media only screen and (min-width: 700px) {
+
+   
+}
+
+@media only screen and (min-width: 900px) {
+   
+} */
