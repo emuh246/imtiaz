@@ -9,14 +9,18 @@ h1, h2, h3, h4, p{
 .intro-section{
     background-color: #d1f5c3;
 }
-
+.custom-card{
+    cursor: pointer;
+}
 .my-projects{
     background-color: #f1c6bc;
 }
 .about-section{
     background: #d0e5f1;
 }
-
+.about-content{
+    max-width: 60%;
+}
 
 
 
